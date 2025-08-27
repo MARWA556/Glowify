@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "70c4",
+      "name": "Balancing Toner",
+      "price": 100,
+      "description": "Toner 50"
+    },
+    {
+      "id": "0fee",
+      "name": "Lightweight Moisturizer",
+      "price": 300,
+      "description": "Lightweight Moisturizer"
+    },
+    {
+      "id": "4fdc",
+      "name": "Daily Cleanser",
+      "price": 150,
+      "description": "Daily Cleanser"
+    },
+    {
+      "id": "7bf9",
+      "name": "Sunscreen SPF 30",
+      "price": 400,
+      "description": "Sunscreen SPF 30"
+    },
+    {
+      "id": "f2c3",
+      "name": "Lip Treatment",
+      "price": 250,
+      "description": "Lip Treatment"
+    },
+    {
+      "id": "0634",
+      "name": "Micellar Water",
+      "price": 300,
+      "description": "Micellar Water"
+    },
+    {
+      "id": "0162",
+      "name": "Clay Mask",
+      "price": 180,
+      "description": "clay mask"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "username": "admin",
+      "password": "admin123*",
+      "isAdmin": true
+    },
+    {
+      "id": "2",
+      "email": "sara@gmail.com",
+      "username": "sara",
+      "password": "1111****",
+      "isAdmin": false
+    },
+    {
+      "id": "a05d",
+      "email": "salma@gmail.com",
+      "username": "salma",
+      "password": "123123**",
+      "isAdmin": false
+    },
+    {
+      "id": "ae1b",
+      "email": "mariam@gamil.com",
+      "username": "mariam",
+      "password": "1111****",
+      "isAdmin": false
+    },
+    {
+      "id": "62b1",
+      "email": "mariiam@gmail.com",
+      "username": "maryam",
+      "password": "maryam1234@",
+      "isAdmin": false
+    },
+    {
+      "id": "47c2",
+      "email": "nour@gmail.com",
+      "username": "nour",
+      "password": "1111****",
+      "isAdmin": false
+    }
+  ]
+}
